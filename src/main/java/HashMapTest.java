@@ -57,6 +57,6 @@ public class HashMapTest {
     public static Map<Integer, String> idMag = new HashMap<Integer, String>();
     static {
         idMag.put(1, "Mamizu0312");
-        idMag.put(2, "");
+        idMag.put(2, "Water_Devil_");
     }
 }
